@@ -1,4 +1,4 @@
-# Cookbook MCP TOOLS Text-to-SQL Playground
+# Cookbook MCP Tools Text-to-SQL Playground
 
 The `cookbook/` folder is our workshop bench for text-to-SQL ideas. While the
 production service has to stay glued to hardened infrastructure, this space lets
